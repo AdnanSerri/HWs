@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ControlPanel.dll">
+      <publishTime>01/02/2021 15:39:55</publishTime>
+    </File>
+    <File Include="bin/ControlPanel.pdb">
+      <publishTime>01/02/2021 15:39:55</publishTime>
+    </File>
+    <File Include="city2.aspx">
+      <publishTime>01/01/2021 21:05:58</publishTime>
+    </File>
+    <File Include="confirm.aspx">
+      <publishTime>01/02/2021 12:38:17</publishTime>
+    </File>
+    <File Include="country2.aspx">
+      <publishTime>01/01/2021 19:45:27</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>01/02/2021 09:21:03</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>01/02/2021 09:14:04</publishTime>
+    </File>
+    <File Include="ManageCity.aspx">
+      <publishTime>01/01/2021 21:08:46</publishTime>
+    </File>
+    <File Include="ManageCountry.aspx">
+      <publishTime>01/01/2021 20:56:27</publishTime>
+    </File>
+    <File Include="ManageState.aspx">
+      <publishTime>12/30/2020 01:36:16</publishTime>
+    </File>
+    <File Include="reg1.html">
+      <publishTime>12/25/2020 22:36:32</publishTime>
+    </File>
+    <File Include="reg2.aspx">
+      <publishTime>12/30/2020 19:32:10</publishTime>
+    </File>
+    <File Include="reg3.aspx">
+      <publishTime>01/01/2021 21:49:30</publishTime>
+    </File>
+    <File Include="reg4.aspx">
+      <publishTime>01/01/2021 21:28:25</publishTime>
+    </File>
+    <File Include="script/validation.js">
+      <publishTime>12/25/2020 22:37:15</publishTime>
+    </File>
+    <File Include="state2.aspx">
+      <publishTime>12/28/2020 22:42:32</publishTime>
+    </File>
+    <File Include="style/style.css">
+      <publishTime>12/25/2020 22:36:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/02/2021 15:39:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

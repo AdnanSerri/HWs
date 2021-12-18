@@ -1,0 +1,7 @@
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\bin\ControlPanel.dll.config
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\bin\ControlPanel.dll
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\bin\ControlPanel.pdb
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\obj\Release\ControlPanel.csprojAssemblyReference.cache
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\obj\Release\ControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\obj\Release\ControlPanel.dll
+C:\Users\Sloom\source\repos\ControlPanel\ControlPanel\obj\Release\ControlPanel.pdb

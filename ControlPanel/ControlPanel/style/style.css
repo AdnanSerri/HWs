@@ -1,0 +1,33 @@
+﻿label {
+    width: 120px;
+    display: inline-flex;
+    padding: 10px;
+}
+.error{
+    color:red;
+}
+
+.actions-info-shadow {
+    box-shadow: 0px 0px 7px 0px #006a7a !important;
+}
+
+.actions-danger-shadow {
+    box-shadow: 0px 0px 7px 0px #ad303c !important;
+}
+
+.actions-warning-shadow {
+    box-shadow: 0px 0px 7px 0px #d7a718 !important;
+}
+
+.actions-success-shadow {
+    box-shadow: 0px 0px 7px 0px #006c19 !important;
+}
+
+.actions-secondary-shadow {
+    box-shadow: 0px 0px 7px 0px #0e0f10 !important;
+}
+
+td {
+    vertical-align: middle !important;
+    text-align: center !important;
+}

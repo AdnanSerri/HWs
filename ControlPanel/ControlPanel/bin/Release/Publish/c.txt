@@ -1,0 +1,4 @@
+<connectionStrings>
+    <add name="dbconnection" connectionString="workstation id=Companye.mssql.somee.com;packet size=4096;user id=sloomsh123_SQLLogin_1;pwd=5qoianacwz;data source=Companye.mssql.somee.com;persist security info=False;initial catalog=Companye MultipleActiveResultSets=True;" providerName="System.Data.SqlClient" />
+    <add name="CompanyConnectionString" connectionString="workstation id=Companye.mssql.somee.com;packet size=4096;user id=sloomsh123_SQLLogin_1;pwd=5qoianacwz;data source=Companye.mssql.somee.com;persist security info=False;initial catalog=Companye MultipleActiveResultSets=True;" providerName="System.Data.SqlClient" />
+  </connectionStrings>

@@ -1,0 +1,8 @@
+﻿label {
+    width: 120px;
+    display: inline-flex;
+    padding: 10px;
+}
+.error{
+    color:red;
+}
